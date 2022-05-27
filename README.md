@@ -67,5 +67,5 @@ DATASET_NAME
 benchmark.py -d "data set 경로" -n "네트워크 경로" -s "sequence 번호" -i "in-planes"
 ```
 
-## Hinterstoisser DATASET 의 4번 으로 수행 하시면 됩니다.
+#### Hinterstoisser DATASET 의 4번 으로 수행 하시면 됩니다.
 csv 파일로 mean_rot_error 1 저장하셔서 제출하시면 됩니다.
