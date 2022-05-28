@@ -34,6 +34,7 @@ unzip icmi_models.zip -d icmi
 unzip icmi_train.zip -d icmi  
 unzip icmi_test_all.zip -d icmi  
 ```
+데이터셋의 구조는 다음과 같습니다.
 ```
 DATASET_NAME
 ├─ camera[_TYPE].json
