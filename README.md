@@ -58,7 +58,8 @@ DATASET_NAME
 ## 코드 사용법
 
 기존의 학습된 네트워크를 다음의 링크에서 받으면 됩니다.
-https://drive.google.com/file/d/1xSCv2KLYMWftQzjrdAO1_mmef76otCYt/view?usp=sharing
+
+* https://drive.google.com/file/d/1xSCv2KLYMWftQzjrdAO1_mmef76otCYt/view?usp=sharing
 
 제가 직접 구현하진 못하여서 기존의 파일에서 DATASET format 변경 및 실행이 가능하도록 수정을 하였습니다.
 
