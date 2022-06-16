@@ -3,7 +3,7 @@
 * SSD-6D: Making RGB-based 3D detection and 6D pose estimation great again
 * https://arxiv.org/abs/1711.10006
 * 논문 설명 링크
-* -
+* https://youtu.be/vlEdPjwdg6Q
 * DATA SET
 * https://bop.felk.cvut.cz/datasets/
 
